@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center">
-
 <!-- ANIMATED BADGE HEADER -->
 [![Chasing the Uncertainty](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=3695F7&vCenter=true&width=700&lines=Chasing+the+Uncertainty)](https://git.io/typing-svg)
 *"Like quantum particles, I exist in multiple tech stacks simultaneously"*
